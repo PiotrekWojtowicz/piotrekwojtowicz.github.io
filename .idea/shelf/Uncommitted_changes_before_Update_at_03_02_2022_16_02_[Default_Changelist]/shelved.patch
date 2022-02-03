@@ -1,0 +1,78 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"a7a05eb9-a9f8-4873-8068-057c7e31b000\" name=\"Default Changelist\" comment=\"Basic files\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"24bVVbhAqfJXRHP1b0cg4P7kA1R\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"DefaultHtmlFileTemplate\" value=\"HTML File\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"application.passwordSafe\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"a7a05eb9-a9f8-4873-8068-057c7e31b000\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1643899299517</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1643899299517</updated>\r\n      <workItem from=\"1643899301874\" duration=\"732000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Basic files\">\r\n      <created>1643899360689</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1643899360689</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Basic files\">\r\n      <created>1643899876173</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1643899876173</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Basic files\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Basic files\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"277\" y=\"53\" key=\"SettingsEditor\" timestamp=\"1643900037709\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"816\" />\r\n    </state>\r\n    <state x=\"277\" y=\"53\" key=\"SettingsEditor/0.0.1536.816@0.0.1536.816\" timestamp=\"1643900037709\" />\r\n    <state x=\"361\" y=\"141\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1643899882804\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"816\" />\r\n    </state>\r\n    <state x=\"361\" y=\"141\" key=\"Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816\" timestamp=\"1643899882804\" />\r\n    <state x=\"431\" y=\"137\" key=\"search.everywhere.popup\" timestamp=\"1643899317656\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"816\" />\r\n    </state>\r\n    <state x=\"431\" y=\"137\" key=\"search.everywhere.popup/0.0.1536.816@0.0.1536.816\" timestamp=\"1643899317656\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision c8e8802ec7491e0750e35d8db30eabc4ec3e0041)
++++ .idea/workspace.xml	(date 1643900331215)
+@@ -19,9 +19,7 @@
+     <select />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="a7a05eb9-a9f8-4873-8068-057c7e31b000" name="Default Changelist" comment="Basic files">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-    </list>
++    <list default="true" id="a7a05eb9-a9f8-4873-8068-057c7e31b000" name="Default Changelist" comment="Basic files" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -49,6 +47,7 @@
+     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+     <property name="WebServerToolWindowFactoryState" value="false" />
++    <property name="nodejs_package_manager_path" value="npm" />
+     <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+     <property name="vue.rearranger.settings.migration" value="true" />
+   </component>
+@@ -61,6 +60,7 @@
+       <option name="presentableId" value="Default" />
+       <updated>1643899299517</updated>
+       <workItem from="1643899301874" duration="732000" />
++      <workItem from="1643900057295" duration="272000" />
+     </task>
+     <task id="LOCAL-00001" summary="Basic files">
+       <created>1643899360689</created>
+@@ -76,7 +76,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1643899876173</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="Basic files">
++      <created>1643900078558</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1643900078558</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -92,20 +99,21 @@
+         </entry>
+       </map>
+     </option>
++    <option name="oldMeFiltersMigrated" value="true" />
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Basic files" />
+     <option name="LAST_COMMIT_MESSAGE" value="Basic files" />
+   </component>
+   <component name="WindowStateProjectService">
+-    <state x="277" y="53" key="SettingsEditor" timestamp="1643900037709">
++    <state x="277" y="53" key="SettingsEditor" timestamp="1643900274643">
+       <screen x="0" y="0" width="1536" height="816" />
+     </state>
+-    <state x="277" y="53" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1643900037709" />
+-    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1643899882804">
++    <state x="277" y="53" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1643900274643" />
++    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1643900080938">
+       <screen x="0" y="0" width="1536" height="816" />
+     </state>
+-    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1643899882804" />
++    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1643900080938" />
+     <state x="431" y="137" key="search.everywhere.popup" timestamp="1643899317656">
+       <screen x="0" y="0" width="1536" height="816" />
+     </state>

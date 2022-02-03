@@ -36,6 +36,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="24bVVbhAqfJXRHP1b0cg4P7kA1R" />
   <component name="ProjectLevelVcsManager">
@@ -49,7 +50,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -61,6 +63,8 @@
       <option name="presentableId" value="Default" />
       <updated>1643899299517</updated>
       <workItem from="1643899301874" duration="732000" />
+      <workItem from="1643900057295" duration="272000" />
+      <workItem from="1643900384244" duration="987000" />
     </task>
     <task id="LOCAL-00001" summary="Basic files">
       <created>1643899360689</created>
@@ -76,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643899876173</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Basic files">
+      <created>1643900078558</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1643900078558</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,20 +103,29 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Basic files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic files" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="277" y="53" key="SettingsEditor" timestamp="1643900037709">
+    <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1643900645010">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="277" y="53" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1643900037709" />
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1643899882804">
+    <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1643900645010" />
+    <state x="277" y="53" key="SettingsEditor" timestamp="1643901379987">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1643899882804" />
+    <state x="277" y="53" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1643901379987" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1643900943914">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1643900943914" />
+    <state x="586" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1643900724080">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="586" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1643900724080" />
     <state x="431" y="137" key="search.everywhere.popup" timestamp="1643899317656">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
