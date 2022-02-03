@@ -38,6 +38,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="509983c6-3d60-415b-ad1f-a76a79eee4a9" />
+  </component>
   <component name="ProjectId" id="24bVVbhAqfJXRHP1b0cg4P7kA1R" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -64,7 +67,7 @@
       <updated>1643899299517</updated>
       <workItem from="1643899301874" duration="732000" />
       <workItem from="1643900057295" duration="272000" />
-      <workItem from="1643900384244" duration="987000" />
+      <workItem from="1643900384244" duration="1677000" />
     </task>
     <task id="LOCAL-00001" summary="Basic files">
       <created>1643899360689</created>
@@ -114,14 +117,14 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1643900645010" />
-    <state x="277" y="53" key="SettingsEditor" timestamp="1643901379987">
+    <state x="277" y="53" key="SettingsEditor" timestamp="1643902075541">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="277" y="53" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1643901379987" />
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1643900943914">
+    <state x="277" y="53" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1643902075541" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1643901996131">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1643900943914" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1643901996131" />
     <state x="586" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1643900724080">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
