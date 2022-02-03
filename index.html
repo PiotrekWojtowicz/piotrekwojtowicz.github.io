@@ -1,10 +1,98 @@
+
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Piotr Wójtowicz</title>
-</head>
-<body>
-<h1>Hello World!</h1>
-</body>
+<html lang="pl" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PiotrW</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous" >
+    <link rel="stylesheet" href="style.css" type="text/css" >
+    <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+  </head >
+  <body>
+      <nav class="navbar navbar-expand-xl navbar-light bg-light fixed-top ">
+        <a class="navbar-brand" href="#">print('Welcome');</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+          <span style="color:#ffffff;">X</span>
+        </button>
+        <div class="collapse navbar-collapse justify-content-center" id="navbarNavDropdown">
+          <ul class="navbar-nav justify-content-xl-between">
+            <li class="nav-item">
+              <a class="nav-link crnt" href="#">Home<span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Features</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Pricing</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Pricing</a>
+            </li>
+            <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Dropdown link
+                  </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                <a class="dropdown-item" href="#">Action</a>
+                <a class="dropdown-item" href="#">Another action</a>
+                <a class="dropdown-item" href="#">Something else here</a>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    <div class="container-fluid">
+      <section class="frontPage">
+        <div class="row frontPage">
+            <div class="col-md">
+
+            </div>
+            <div class="col-md-6">
+              <div class="d-flex justify-content-center frontPage">
+                <div>
+                <span id="type" ></span>
+                <p>Hi, my name is Peter and website design is my passion. Here is the exapmle text to encourage you to read and go on with content on this website. I had no idea what to put in here so underneath is Richarfd, the magician on who I'm falling back on while making my projects ;).</p>
+                <div class="riczardBox">
+                  <span class="noInh"><p>Let's begin our journey!</p></span>
+                  <div class="riczardHimself">
+
+                  </div>
+                </div>
+              </div>
+              </div>
+            </div>
+            <div class="col-md">
+
+            </div>
+          </div>
+      </section>
+    </div>
+    <script>
+        var i = 0, text;
+        text = "> Great to see you here!";
+
+        function typing() {
+          if(i<text.length){
+            document.getElementById("type").innerHTML += text.charAt(i);
+            i++;
+            setTimeout(typing, 100);
+          }
+        }
+        typing();
+    </script>
+    <script>
+
+        let a = {
+          cos: "asdas",
+          zmiana: function() {
+            this.cos = "dasdas";
+            return this.cos;
+          },
+        };
+    </script>
+  </body>
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 </html>
