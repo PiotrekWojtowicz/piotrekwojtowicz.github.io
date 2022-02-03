@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a7a05eb9-a9f8-4873-8068-057c7e31b000" name="Default Changelist" comment="Basic files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +68,7 @@
       <updated>1643899299517</updated>
       <workItem from="1643899301874" duration="732000" />
       <workItem from="1643900057295" duration="272000" />
-      <workItem from="1643900384244" duration="1677000" />
+      <workItem from="1643900384244" duration="3676000" />
     </task>
     <task id="LOCAL-00001" summary="Basic files">
       <created>1643899360689</created>
@@ -117,18 +118,18 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1643900645010" />
-    <state x="277" y="53" key="SettingsEditor" timestamp="1643902075541">
+    <state x="277" y="53" key="SettingsEditor" timestamp="1643903057835">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="277" y="53" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1643902075541" />
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1643901996131">
+    <state x="277" y="53" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1643903057835" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1643904281065">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1643901996131" />
-    <state x="586" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1643900724080">
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1643904281065" />
+    <state x="586" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1643903087755">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="586" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1643900724080" />
+    <state x="586" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1643903087755" />
     <state x="431" y="137" key="search.everywhere.popup" timestamp="1643899317656">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
