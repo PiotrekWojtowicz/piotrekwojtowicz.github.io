@@ -13,6 +13,12 @@ body{
   padding-top: 20px;
   padding-bottom: 20px;
 }
+.head.d-flex{
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
 .head, .about{
   margin: 20px;
   padding: 20px;
