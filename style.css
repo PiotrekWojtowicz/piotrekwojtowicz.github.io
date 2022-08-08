@@ -76,6 +76,8 @@ div.list > a{
   color:wheat!important;
   padding-right: 10px;
   border-right: 0.5px solid rgb(70, 70, 70);
+  display: inline-block;
+  width: 110px;
 }
 .about > .row .col-md ul li:nth-child(1){
  color: aliceblue!important;
